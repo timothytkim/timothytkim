@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Timothy 👋
 
-<!--
-**timothytkim/timothytkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Texas, working primarily with
+Java, Python, SQL, backend systems, and data.
 
-Here are some ideas to get you started:
+## Tech
+Java · Python · SQL · Spring Boot · FastAPI
+AWS · Azure · Docker · Git · Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- Food Calorie Recognition API
+- Cyclistic Data Analytics
+- Switch-On Tracker
+
+## Open Source
+- Kaoto / Camel Catalog
+- GeoServer Cloud
+- memoria_project
+
+## Currently
+Contributing to open-source projects and building backend/data projects.
