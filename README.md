@@ -1,96 +1,46 @@
 # Hi, I'm Timothy Kim 👋
 
 Software Engineer based in Texas, USA.
-
-I build reliable software across backend systems, data-driven applications, and mobile experiences — turning ideas into products people can use.
+I build reliable software across backend systems, data-driven apps, and mobile — turning ideas into products people can use.
 
 ---
 
 ## What I Do
 
-💻 **Backend Engineering**  
-Building APIs and services with Java, Python, and modern backend frameworks.
-
-📊 **Data & Applied AI**  
-Transforming data into meaningful insights through analytics, machine learning, and automation.
-
-📱 **Mobile Development**  
-Creating thoughtful mobile experiences with Flutter and offline-first architecture.
-
-🌎 **Open Source**  
-Learning from and contributing to real-world engineering communities.
+💻 **Backend** — APIs and services with Java, Python, and modern frameworks
+📊 **Data & Applied AI** — turning data into insights with analytics and ML
+📱 **Mobile** — offline-first apps with Flutter
+🌎 **Open Source** — learning and contributing in real-world communities
 
 ---
 
 ## Tech Stack
 
-**Languages**
-
-Java · Python · C++ · SQL
-
-
-**Backend**
-
-Spring Boot · FastAPI · REST APIs · JUnit
-
-
-**Data & AI**
-
-SQL Analytics · Pandas · TensorFlow Lite · Data Visualization
-
-
-**Cloud & Tools**
-
-AWS · Azure · Docker · Jenkins · Git
+**Languages** — Java · Python · C++ · SQL
+**Backend** — Spring Boot · FastAPI · REST APIs · JUnit
+**Data & AI** — Pandas · TensorFlow Lite · SQL Analytics
+**Cloud & Tools** — AWS · Azure · Docker · Jenkins · Git
 
 ---
 
 ## Featured Projects
 
-### 🍽 FoodCalorie
+🍽 **FoodCalorie** — AI food-recognition backend linking computer vision with nutrition insights
+`FastAPI · TensorFlow Lite · Python`
 
-An AI-powered food recognition backend that connects computer vision with nutrition insights.
+📱 **SwitchOnTracker** — offline-first Flutter app for building intentional daily habits
+`Flutter · Dart · Local Storage`
 
-**Built with:**  
-FastAPI · TensorFlow Lite · REST API · Python
-
-
----
-
-### 📱 SwitchOnTracker
-
-An offline-first Flutter application designed around intentional habits and daily progress.
-
-**Built with:**  
-Flutter · Dart · Local Storage · Mobile Architecture
-
-
----
-
-### 📊 Data Analytics Portfolio
-
-Exploring real-world datasets through analysis, visualization, and storytelling.
-
-**Built with:**  
-SQL · R · Tableau · Data Analysis
+📊 **Data Analytics Portfolio** — real-world datasets explored through analysis and visualization
+`SQL · R · Tableau`
 
 ---
 
 ## Open Source
 
-Currently exploring and contributing to real-world codebases:
-
-🚀 **Kaoto / Camel Catalog**  
-Working with enterprise Java ecosystems and improving my understanding of large-scale open-source projects.
-
-🚀 **memoria_project**  
-Contributing improvements while learning from production-oriented codebases.
+🚀 **Kaoto / Camel Catalog** — working within enterprise Java ecosystems
+🚀 **memoria_project** — contributing to a production-oriented codebase
 
 ---
 
-## Beyond Code
-
-I believe great software is built at the intersection of engineering, curiosity, and empathy.
-
-Always learning.  
-Always building.
+_Always learning. Always building._
