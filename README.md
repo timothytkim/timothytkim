@@ -1,8 +1,8 @@
 # Hi, I'm Timothy 👋
 
-Software Engineer focused on backend development, data, and open source.
+Backend Software Engineer building APIs, data systems, and reliable software with **Java, Python & SQL**.
 
-I enjoy working on practical software, improving existing codebases, and learning how real-world projects are tested, reviewed, and maintained.
+I enjoy working in existing codebases — understanding behavior, writing focused tests, fixing issues, and learning how production software is reviewed and maintained.
 
 ## What I work with
 
@@ -12,38 +12,44 @@ Java · Python · SQL · Dart · JavaScript
 **Backend & Data**  
 Spring Boot · FastAPI · REST APIs · pandas · Tableau
 
-**Tools**  
-Git · GitHub · Maven · JUnit · PiTest · Docker · CI/CD
+**Testing & Tools**  
+JUnit · Mockito · PiTest · Maven · Git · GitHub · Docker · CI/CD
 
 ## Open Source
 
-I contribute to existing Java projects through focused bug fixes, code cleanup, testing, and documentation updates.
+I contribute to existing open-source projects through focused testing, bug fixes, code quality improvements, and maintenance work.
 
-Recent work includes:
+Recent contribution work includes:
 
-- Reviewing ISO standard data against project enums
-- Fixing metadata and documentation mismatches
-- Improving compiler-warning handling
-- Running JUnit and mutation tests
-- Working through rebase conflicts and maintainer feedback
+- **CodeMonk** — added Redis cache unit and edge-case tests with JUnit and Mockito
+- **Kaoto / camel-catalog** — worked on resource loading, enum compatibility, tests, rebasing, and CI feedback
+- **nv-i18n** — reviewed ISO language/script data and used mutation testing to strengthen test coverage
+- Improved compiler-warning handling and test quality in existing Java codebases
+- Worked through merge conflicts, rebases, Maven builds, CI failures, and maintainer review feedback
+
+I’m especially interested in learning how mature projects handle **testing, maintainability, backward compatibility, and code review**.
 
 ## Selected Projects
 
 ### FoodCalorie_BackEnd
-Food recognition and calorie-analysis backend built with Python, FastAPI, and TensorFlow Lite.
+
+Food recognition and nutrition-analysis backend built with **Python, FastAPI, TensorFlow Lite, and external APIs**.
 
 ### SwitchOnTracker
-A Flutter-based mobile tracker with offline support and structured daily progress tracking.
+
+Flutter-based offline-first tracking application with local storage, clean architecture, and structured daily progress tracking.
 
 ### Data Analytics
-SQL, R, Python, and Tableau projects focused on exploratory analysis and visualization.
 
-## Currently exploring
+Projects using **SQL, Python, R, Google Sheets, and Tableau** to explore datasets, identify patterns, and communicate findings.
+
+## Currently Exploring
 
 - Java backend engineering
-- Open-source maintenance
-- Testing and code quality
-- Developer tooling
+- Open-source contribution
+- Unit & mutation testing
+- Software maintainability
+- Developer tooling & CI/CD
 
 ---
 
