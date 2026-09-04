@@ -1,56 +1,57 @@
 # Hi, I'm Timothy 👋
 
-Backend Software Engineer building APIs, data systems, and reliable software with **Java, Python & SQL**.
+**Software Engineer working across backend systems and data.**
 
-I enjoy working in existing codebases — understanding behavior, writing focused tests, fixing issues, and learning how production software is reviewed and maintained.
+I build APIs, work with data, and contribute to open-source projects using **Java, Python, SQL, and modern engineering tools**.
 
-## What I work with
+I have professional experience in **software development at Infosys** and **network QA at Samsung Electronics America**, with additional hands-on work in backend development, data analysis, testing, and open-source software.
 
-**Languages**  
-Java · Python · SQL · Dart · JavaScript
+I'm especially interested in roles involving **Backend Engineering, Data Engineering, Data Analytics, and data-driven software systems**.
 
-**Backend & Data**  
-Spring Boot · FastAPI · REST APIs · pandas · Tableau
+## What I Work With
 
-**Testing & Tools**  
+### Backend & Software Engineering
+
+Java · Spring Boot · Python · FastAPI · REST APIs
+
+### Data & Analytics
+
+SQL · pandas · R · Tableau · Excel / Google Sheets
+Data Cleaning · Data Analysis · Visualization · Reporting
+
+### Testing & Engineering
+
 JUnit · Mockito · PiTest · Maven · Git · GitHub · Docker · CI/CD
 
 ## Open Source
 
-I contribute to existing open-source projects through focused testing, bug fixes, code quality improvements, and maintenance work.
+I contribute to established codebases through bug fixes, API improvements, testing, validation, and maintenance work.
 
-Recent contribution work includes:
+Recent work includes:
 
-- **CodeMonk** — added Redis cache unit and edge-case tests with JUnit and Mockito
-- **Kaoto / camel-catalog** — worked on resource loading, enum compatibility, tests, rebasing, and CI feedback
-- **nv-i18n** — reviewed ISO language/script data and used mutation testing to strengthen test coverage
-- Improved compiler-warning handling and test quality in existing Java codebases
-- Worked through merge conflicts, rebases, Maven builds, CI failures, and maintainer review feedback
+* **[Flinkboot](https://github.com/Sekelenao/Flinkboot)** — worked on Java API extensions for Flink `TypeHint` / `TypeInformation`, POJO validation, tests, and documentation
+* **[CodeMonk](https://github.com/YeamimHossainSajid/CodeMonk)** — added Redis cache unit and edge-case tests using JUnit and Mockito
+* **[Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)** — worked on resource loading, enum compatibility, tests, rebasing, and CI feedback
+* **[nv-i18n](https://github.com/foundationsedge/nv-i18n)** — improved Java test quality and used mutation testing to identify gaps in coverage
 
-I’m especially interested in learning how mature projects handle **testing, maintainability, backward compatibility, and code review**.
+Through open-source work, I've gained hands-on experience with **existing production-style codebases, Maven builds, CI failures, rebases, merge conflicts, test failures, and maintainer code review**.
 
-## Selected Projects
+## Selected Work
 
-### FoodCalorie_BackEnd
+### [FoodCalorie_BackEnd](https://github.com/timothytkim/FoodCalorie_BackEnd)
 
-Food recognition and nutrition-analysis backend built with **Python, FastAPI, TensorFlow Lite, and external APIs**.
+FastAPI backend for food image recognition and nutrition analysis using Python, TensorFlow Lite, and external APIs.
 
-### SwitchOnTracker
+### [Cyclistic Data Analysis](https://github.com/timothytkim/cyclistic-data-analysis)
 
-Flutter-based offline-first tracking application with local storage, clean architecture, and structured daily progress tracking.
+End-to-end data analysis project using **SQL, R, Google Sheets, and Tableau** to clean and analyze behavioral data, identify usage patterns, and communicate actionable findings.
 
-### Data Analytics
+### [SwitchOnTracker](https://github.com/timothytkim/SwitchOnTracker)
 
-Projects using **SQL, Python, R, Google Sheets, and Tableau** to explore datasets, identify patterns, and communicate findings.
-
-## Currently Exploring
-
-- Java backend engineering
-- Open-source contribution
-- Unit & mutation testing
-- Software maintainability
-- Developer tooling & CI/CD
+Offline-first Flutter application built around structured local data, clean architecture, and daily progress tracking.
 
 ---
 
-> Build. Test. Review. Improve.
+**Interested in:** Software Engineering · Backend Engineering · Data Engineering · Data Analytics · APIs · Data Systems · Open Source
+
+[LinkedIn](https://www.linkedin.com/in/taeohkim/) · [GitHub](https://github.com/timothytkim)
