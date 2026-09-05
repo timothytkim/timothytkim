@@ -1,10 +1,10 @@
 # Hi, I'm Timothy 👋
 
-**Software Engineer working across backend systems, data, and open source.**
+**Software engineer and data-focused problem solver working across backend systems, analytics, quality, and open source.**
 
 I have professional experience in **software development at Infosys** and **network QA at Samsung Electronics America**, with hands-on work across backend development, testing, data analysis, and software quality.
 
-I primarily work with **Java, Python, and SQL**, and I enjoy understanding existing systems, solving practical problems, writing reliable tests, and turning data into useful insights.
+I primarily work with **Java, Python, SQL, and Tableau**. I enjoy understanding existing systems, solving practical problems, writing reliable tests, validating results, and turning data into useful insights.
 
 ## 🛠 Tech Stack
 
@@ -14,12 +14,28 @@ Java · Spring Boot · Python · FastAPI · REST APIs
 
 ### Data & Analytics
 
-SQL · pandas · R · Tableau · Excel · Google Sheets
-Data Cleaning · Analysis · Visualization · Reporting
+* **Tools:** SQL (Oracle, MySQL) · Tableau · pandas · R · Excel · Google Sheets
+* **Methods:** Data Cleaning · Data Validation · Analysis · Visualization · Ad Hoc Reporting
 
 ### Testing & Engineering
 
-JUnit · Mockito · PiTest · Maven · Git · GitHub · Docker · CI/CD
+JUnit · Mockito · PiTest · Maven · Git · GitHub · CI/CD · Agile/Scrum
+
+### Systems & Cloud
+
+Linux · Docker · AWS · Azure · Terraform · EKS
+
+## 💼 Experience Snapshot
+
+* **Infosys — Software Engineer supporting Lumen Technologies:** Delivered production Java backend improvements, wrote and optimized Oracle and MySQL queries, designed JUnit tests, investigated performance issues, and supported CI workflows in Agile teams.
+
+* **Samsung Electronics America — Network QA Engineer I (via Harvey Nash):** Evaluated network performance, stability, and software behavior across multiple device platforms; used Linux test-server workflows and partnered with development teams to reproduce and resolve defects.
+
+## 📚 Training & Certifications
+
+* **Google Data Analytics Certificate:** Hands-on analysis and data visualization using SQL, R, Excel, Google Sheets, and Tableau.
+
+* **Infosys Certified Software Programmer — WebIDE (2024):** Java, Oracle SQL, object-oriented programming, and enterprise application/database development.
 
 ## 🌱 Open Source
 
@@ -63,7 +79,7 @@ Offline-first Flutter application built around structured local data, clean arch
 
 ## 🎯 Areas of Interest
 
-**Software Engineering · Backend Engineering · Data Engineering · Data Analytics · APIs · Data Systems · Open Source**
+**Software Engineering · Backend Engineering · Data Engineering · Data Analytics · Operational Analytics · Data Visualization · APIs · Data Systems · Open Source**
 
 ---
 
