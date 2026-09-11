@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.png" alt="Abstract black, graphite, and crimson profile banner" width="100%" />
-</p>
-
 <h1 align="center">Timothy Kim</h1>
 
 <p align="center">
