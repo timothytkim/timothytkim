@@ -1,15 +1,33 @@
-# Hi, I'm Timothy Kim 👋
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Abstract black, graphite, and crimson profile banner" width="100%" />
+</p>
 
-**Backend Software Engineer & Data Analyst | Java, Spring Boot, Python & SQL | APIs, Data Systems & Open Source**
+<h1 align="center">Timothy Kim</h1>
 
-I build practical software across **backend systems, data workflows, testing, and developer tooling**.
+<p align="center">
+  <strong>Backend Software Engineer · Data Systems · Open Source</strong>
+</p>
 
-My professional background includes **software development at Infosys** and **network QA at Samsung Electronics America**, and I actively contribute to established open-source Java projects.
+<p align="center">
+  Java &amp; Spring Boot&nbsp;&nbsp;•&nbsp;&nbsp;Python &amp; FastAPI&nbsp;&nbsp;•&nbsp;&nbsp;SQL &amp; Analytics
+</p>
 
-- 🔧 Backend development with **Java, Spring Boot, Python, FastAPI, and REST APIs**
-- 📊 Data work with **SQL, pandas, Tableau, R, and Excel**
-- 🧪 Testing and engineering with **JUnit, Mockito, PiTest, Maven, Git, and CI/CD**
-- 🌱 Active open-source contributor working with existing codebases, maintainers, reviews, and production-style workflows
+<p align="center">
+  <a href="https://www.linkedin.com/in/taeohkim/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://linktr.ee/taeohkim">Links</a>
+</p>
+
+---
+
+I build reliable software across **backend systems, data workflows, testing, and developer tooling**. My background includes software development at **Infosys**, network QA at **Samsung Electronics America**, and active contributions to established open-source Java projects.
+
+### What I work on
+
+- 🔧 Backend services and APIs with **Java, Spring Boot, Python, and FastAPI**
+- 📊 Data workflows and analysis with **SQL, pandas, Tableau, R, and Excel**
+- 🧪 Software quality with **JUnit, Mockito, PiTest, Maven, Git, and CI/CD**
+- 🌱 Open-source fixes, tests, compatibility work, and maintainer-driven reviews
 
 ## 🛠 Tech Stack
 
