@@ -1,31 +1,105 @@
 <h1 align="center">Timothy Kim</h1>
 
 <p align="center">
-  <strong>Backend Software Engineer · Data Systems · Open Source</strong>
+  <strong>Backend Software Engineer · Java & Python · Open Source</strong>
 </p>
 
 <p align="center">
-  Java &amp; Spring Boot&nbsp;&nbsp;•&nbsp;&nbsp;Python &amp; FastAPI&nbsp;&nbsp;•&nbsp;&nbsp;SQL &amp; Analytics
+  Building reliable APIs, data systems, developer tooling, and AI infrastructure.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/taeohkim/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://linktr.ee/taeohkim">Links</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/timothytkim">GitHub</a>
 </p>
 
 ---
 
-I build reliable software across **backend systems, APIs, data workflows, testing, and developer tooling**. My background includes software development at **Infosys**, network QA at **Samsung Electronics America**, and active contributions to established open-source Java projects.
+I’m a software engineer focused on **backend systems, APIs, data workflows, testing, and open-source engineering**. My background includes Java backend development at **Infosys**, software and network quality engineering at **Samsung Electronics America**, and ongoing contributions to established Java and infrastructure projects.
 
-### What I work on
+I enjoy working in unfamiliar codebases, tracing behavior from implementation to tests, fixing edge cases, and turning ambiguous issues into small, reviewable changes.
 
-- 🔧 Backend services and APIs with **Java, Spring Boot, Python, and FastAPI**
-- 📊 Data workflows and analysis with **SQL, pandas, Tableau, R, and Excel**
-- 🧪 Software quality with **JUnit, Mockito, PiTest, Maven, Git, and CI/CD**
-- 🌱 Open-source fixes, compatibility work, tests, documentation, and maintainer-driven reviews
+## What I work on
 
-## 🛠 Tech Stack
+- **Backend engineering** — Java, Spring Boot, Python, FastAPI, REST APIs
+- **Data systems** — SQL, pandas, Oracle, MySQL, analytics workflows
+- **Software quality** — JUnit, Mockito, AssertJ, PiTest, Maven, CI/CD
+- **Cloud & systems** — Linux, Docker, AWS, Azure, Terraform
+- **Open source** — bug fixes, API compatibility, testing, documentation, and maintainer-driven reviews
+
+## Open Source
+
+### [Spector](https://github.com/spectrayan/spector)
+Java AI infrastructure and cognitive-memory tooling.
+
+- Added package-level and public API documentation across provider registry, discovery, delegation, and provider factory code
+- Currently contributing a searchable **Cognitive Neuroscience in AI glossary** covering memory, retrieval, indexing, and systems concepts
+- Recent PR: [#878](https://github.com/spectrayan/spector/pull/878)
+
+### [NKAP](https://github.com/Deval123/nkap)
+Payment-provider adapter and conformance tooling.
+
+- Improved the MTN simulator to return operator-style error payloads
+- Added configurable provider error codes while preserving scenario compatibility
+- Expanded regression coverage
+- Recent PR: [#79](https://github.com/Deval123/nkap/pull/79)
+
+### [nv-i18n](https://github.com/foundationsedge/nv-i18n)
+Java internationalization library.
+
+- Improved compiler-warning enforcement and AssertJ-based tests
+- Worked on ISO metadata validation and mutation-test coverage
+- Recent PRs: [#72](https://github.com/foundationsedge/nv-i18n/pull/72) · [#123](https://github.com/foundationsedge/nv-i18n/pull/123) · [#172](https://github.com/foundationsedge/nv-i18n/pull/172)
+
+### [Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)
+Apache Camel catalog tooling.
+
+- Worked on Java enum compatibility, stable runtime identifiers, packaged-resource handling, and regression tests
+- Recent PRs: [#161](https://github.com/KaotoIO/camel-catalog/pull/161) · [#180](https://github.com/KaotoIO/camel-catalog/pull/180) · [#195](https://github.com/KaotoIO/camel-catalog/pull/195)
+
+### [Flinkboot](https://github.com/Sekelenao/Flinkboot)
+Apache Flink developer tooling.
+
+- Added validation fixes and expanded assertion APIs for `TypeHint` and `TypeInformation`
+- Added tests and documentation around the changes
+- Recent PRs: [#54](https://github.com/Sekelenao/Flinkboot/pull/54) · [#55](https://github.com/Sekelenao/Flinkboot/pull/55) · [#58](https://github.com/Sekelenao/Flinkboot/pull/58)
+
+Through these contributions I regularly work with **existing codebases, Maven multi-module builds, CI failures, rebases, merge conflicts, regression testing, mutation testing, API compatibility, and code review**.
+
+## Selected Projects
+
+### [FoodCalorie_BackEnd](https://github.com/timothytkim/FoodCalorie_BackEnd)
+FastAPI backend for food-image recognition and nutrition analysis using Python, TensorFlow Lite, and external APIs.
+
+`Python` `FastAPI` `REST APIs` `TensorFlow Lite`
+
+### [Cyclistic Data Analysis](https://github.com/timothytkim/cyclistic-data-analysis)
+End-to-end analytics project using SQL, R, Google Sheets, and Tableau to clean behavioral data, identify usage patterns, and communicate findings.
+
+`SQL` `R` `Tableau` `Data Analysis`
+
+### [SwitchOnTracker](https://github.com/timothytkim/SwitchOnTracker)
+Offline-first Flutter application for structured local tracking and daily progress workflows.
+
+`Flutter` `Local Data` `Application Architecture`
+
+### [NeatPrayer](https://github.com/timothytkim/NeatPrayer)
+A lightweight church-community tool for organizing prayer requests and turning them into shareable announcements and images.
+
+`JavaScript` `Product Development` `Church Tech`
+
+## Experience
+
+**Infosys — Tech Associate**  
+Java backend development, SQL, testing, performance investigation, and Agile delivery for enterprise systems.
+
+**Samsung Electronics America — Network QA Engineer I**  
+Post-release software validation, KPI and throughput analysis, defect reproduction, and cross-team root-cause investigation across Snapdragon, Exynos, and MediaTek device platforms.
+
+## Tech Stack
 
 **Languages**  
 Java · Python · SQL · C++ · R
@@ -33,86 +107,28 @@ Java · Python · SQL · C++ · R
 **Backend & APIs**  
 Spring Boot · FastAPI · REST APIs
 
-**Data & Analytics**  
+**Data**  
 Oracle · MySQL · pandas · Tableau · Excel · Google Sheets
 
 **Testing & Engineering**  
-JUnit · Mockito · AssertJ · PiTest · Maven · Git · GitHub · CI/CD · Agile/Scrum
+JUnit · Mockito · AssertJ · PiTest · Maven · Git · GitHub · CI/CD
 
 **Cloud & Systems**  
 Linux · Docker · AWS · Azure · Terraform · EKS
 
-## 🌱 Open Source
+## Certifications
 
-I contribute to open-source projects through **bug fixes, API and compatibility improvements, testing, validation, documentation, and maintenance work**.
+- **Google Data Analytics Professional Certificate**
+- **Infosys Certified Software Programmer — WebIDE**
 
-### Recent contributions
+## Current Focus
 
-- **[Spector](https://github.com/spectrayan/spector)** — Java AI infrastructure and provider tooling  
-  Added provider package documentation and Javadocs across the provider registry, discovery, delegation, and provider factory APIs.  
-  Recent PR: [#878](https://github.com/spectrayan/spector/pull/878)
-
-- **[NKAP](https://github.com/Deval123/nkap)** — payment-provider adapter and conformance tooling  
-  Improved the MTN simulator to return operator-style error payloads, added configurable error codes, preserved scenario compatibility, and expanded regression coverage.  
-  Recent PR: [#79](https://github.com/Deval123/nkap/pull/79)
-
-- **[nv-i18n](https://github.com/foundationsedge/nv-i18n)** — Java internationalization library  
-  Improved compiler-warning enforcement, AssertJ-based tests, ISO metadata validation, and mutation-test coverage.  
-  Recent PRs: [#72](https://github.com/foundationsedge/nv-i18n/pull/72) · [#123](https://github.com/foundationsedge/nv-i18n/pull/123) · [#172](https://github.com/foundationsedge/nv-i18n/pull/172)
-
-- **[Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)** — Apache Camel catalog tooling  
-  Worked on Java enum compatibility, stable runtime identifiers, packaged-resource handling, regression tests, and maintainer feedback.  
-  Recent PRs: [#161](https://github.com/KaotoIO/camel-catalog/pull/161) · [#180](https://github.com/KaotoIO/camel-catalog/pull/180) · [#195](https://github.com/KaotoIO/camel-catalog/pull/195)
-
-- **[Flinkboot](https://github.com/Sekelenao/Flinkboot)** — Apache Flink developer tooling  
-  Added validation fixes and expanded assertion APIs for Flink `TypeHint` and `TypeInformation`, with tests and documentation.  
-  Recent PRs: [#54](https://github.com/Sekelenao/Flinkboot/pull/54) · [#55](https://github.com/Sekelenao/Flinkboot/pull/55) · [#58](https://github.com/Sekelenao/Flinkboot/pull/58)
-
-Through these contributions, I work regularly with **existing codebases, Maven multi-module builds, CI failures, rebases, merge conflicts, regression testing, mutation testing, API compatibility, and maintainer code review**.
-
-## 🚀 Selected Projects
-
-### [FoodCalorie_BackEnd](https://github.com/timothytkim/FoodCalorie_BackEnd)
-
-FastAPI backend for food-image recognition and nutrition analysis using Python, TensorFlow Lite, and external APIs.
-
-`Python` `FastAPI` `REST APIs` `TensorFlow Lite` `Data Processing`
-
-### [Cyclistic Data Analysis](https://github.com/timothytkim/cyclistic-data-analysis)
-
-End-to-end analytics project using SQL, R, Google Sheets, and Tableau to clean behavioral data, identify usage patterns, and communicate findings.
-
-`SQL` `R` `Tableau` `Data Cleaning` `Business Analysis`
-
-### [SwitchOnTracker](https://github.com/timothytkim/SwitchOnTracker)
-
-Offline-first Flutter application focused on structured local data, clean application flow, and daily progress tracking.
-
-`Flutter` `Local Data` `Application Architecture`
-
-### [NeatPrayer](https://github.com/timothytkim/NeatPrayer)
-
-A lightweight church-community tool for organizing prayer requests and turning them into shareable announcements and images.
-
-`JavaScript` `Product Development` `Church Tech`
-
-## 💼 Experience
-
-**Infosys — Tech Associate**  
-Supported Lumen Technologies with Java backend development, SQL, testing, performance investigation, and Agile delivery workflows.
-
-**Samsung Electronics America — Network QA Engineer I**  
-Performed post-release software validation and performance/KPI analysis across Snapdragon, Exynos, and MediaTek device platforms, reproducing defects and supporting root-cause investigations through Linux-based engineering workflows in collaboration with development teams.
-
-## 📚 Certifications & Training
-
-- **Google Data Analytics Professional Certificate** — SQL, R, spreadsheets, Tableau, data cleaning, analysis, and visualization
-- **Infosys Certified Software Programmer — WebIDE** — Java, Oracle SQL, OOP, and enterprise application development
-
-## 🎯 Focus
-
-**Backend Engineering · Software Engineering · Data Engineering · Data Analytics · APIs · Data Systems · Open Source**
+**Backend Engineering · Java · APIs · Data Systems · AI Infrastructure · Open Source**
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/taeohkim/) · [GitHub](https://github.com/timothytkim)
+<p align="center">
+  <a href="https://www.linkedin.com/in/taeohkim/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/timothytkim">GitHub</a>
+</p>
