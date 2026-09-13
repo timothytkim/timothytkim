@@ -16,14 +16,14 @@
 
 ---
 
-I build reliable software across **backend systems, data workflows, testing, and developer tooling**. My background includes software development at **Infosys**, network QA at **Samsung Electronics America**, and active contributions to established open-source Java projects.
+I build reliable software across **backend systems, APIs, data workflows, testing, and developer tooling**. My background includes software development at **Infosys**, network QA at **Samsung Electronics America**, and active contributions to established open-source Java projects.
 
 ### What I work on
 
 - 🔧 Backend services and APIs with **Java, Spring Boot, Python, and FastAPI**
 - 📊 Data workflows and analysis with **SQL, pandas, Tableau, R, and Excel**
 - 🧪 Software quality with **JUnit, Mockito, PiTest, Maven, Git, and CI/CD**
-- 🌱 Open-source fixes, tests, compatibility work, and maintainer-driven reviews
+- 🌱 Open-source fixes, compatibility work, tests, documentation, and maintainer-driven reviews
 
 ## 🛠 Tech Stack
 
@@ -37,34 +37,38 @@ Spring Boot · FastAPI · REST APIs
 Oracle · MySQL · pandas · Tableau · Excel · Google Sheets
 
 **Testing & Engineering**  
-JUnit · Mockito · PiTest · Maven · Git · GitHub · CI/CD · Agile/Scrum
+JUnit · Mockito · AssertJ · PiTest · Maven · Git · GitHub · CI/CD · Agile/Scrum
 
 **Cloud & Systems**  
 Linux · Docker · AWS · Azure · Terraform · EKS
 
 ## 🌱 Open Source
 
-I contribute to open-source projects through **bug fixes, API improvements, compatibility work, testing, validation, and documentation**.
+I contribute to open-source projects through **bug fixes, API and compatibility improvements, testing, validation, documentation, and maintenance work**.
 
 ### Recent contributions
 
+- **[Spector](https://github.com/spectrayan/spector)** — Java AI infrastructure and provider tooling  
+  Added provider package documentation and Javadocs across the provider registry, discovery, delegation, and provider factory APIs.  
+  Recent PR: [#878](https://github.com/spectrayan/spector/pull/878)
+
+- **[NKAP](https://github.com/Deval123/nkap)** — payment-provider adapter and conformance tooling  
+  Improved the MTN simulator to return operator-style error payloads, added configurable error codes, preserved scenario compatibility, and expanded regression coverage.  
+  Recent PR: [#79](https://github.com/Deval123/nkap/pull/79)
+
 - **[nv-i18n](https://github.com/foundationsedge/nv-i18n)** — Java internationalization library  
-  Improved compiler-warning enforcement, test quality, ISO metadata validation, and mutation-test coverage.  
+  Improved compiler-warning enforcement, AssertJ-based tests, ISO metadata validation, and mutation-test coverage.  
   Recent PRs: [#72](https://github.com/foundationsedge/nv-i18n/pull/72) · [#123](https://github.com/foundationsedge/nv-i18n/pull/123) · [#172](https://github.com/foundationsedge/nv-i18n/pull/172)
+
+- **[Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)** — Apache Camel catalog tooling  
+  Worked on Java enum compatibility, stable runtime identifiers, packaged-resource handling, regression tests, and maintainer feedback.  
+  Recent PRs: [#161](https://github.com/KaotoIO/camel-catalog/pull/161) · [#180](https://github.com/KaotoIO/camel-catalog/pull/180) · [#195](https://github.com/KaotoIO/camel-catalog/pull/195)
 
 - **[Flinkboot](https://github.com/Sekelenao/Flinkboot)** — Apache Flink developer tooling  
   Added validation fixes and expanded assertion APIs for Flink `TypeHint` and `TypeInformation`, with tests and documentation.  
   Recent PRs: [#54](https://github.com/Sekelenao/Flinkboot/pull/54) · [#55](https://github.com/Sekelenao/Flinkboot/pull/55) · [#58](https://github.com/Sekelenao/Flinkboot/pull/58)
 
-- **[Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)** — Apache Camel catalog tooling  
-  Worked on Java enum compatibility, packaged-resource handling, regression tests, rebasing, and maintainer feedback.  
-  Recent PRs: [#161](https://github.com/KaotoIO/camel-catalog/pull/161) · [#180](https://github.com/KaotoIO/camel-catalog/pull/180) · [#195](https://github.com/KaotoIO/camel-catalog/pull/195)
-
-- **[CodeMonk](https://github.com/YeamimHossainSajid/CodeMonk)**  
-  Implemented Redis caching behavior and added unit and edge-case coverage using JUnit and Mockito.  
-  Recent PRs: [#407](https://github.com/YeamimHossainSajid/CodeMonk/pull/407) · [#415](https://github.com/YeamimHossainSajid/CodeMonk/pull/415)
-
-These contributions have given me hands-on experience with **large existing codebases, Maven builds, CI failures, rebases, merge conflicts, regression testing, mutation testing, and maintainer code review**.
+Through these contributions, I work regularly with **existing codebases, Maven multi-module builds, CI failures, rebases, merge conflicts, regression testing, mutation testing, API compatibility, and maintainer code review**.
 
 ## 🚀 Selected Projects
 
