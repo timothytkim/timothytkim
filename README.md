@@ -101,7 +101,7 @@ A lightweight church-community tool for organizing prayer requests and turning t
 **Infosys — Tech Associate**  
 Supported Lumen Technologies with Java backend development, SQL, testing, performance investigation, and Agile delivery workflows.
 
-**Samsung Electronics America — Network QA Engineer I (via Harvey Nash)**  
+**Samsung Electronics America — Network QA Engineer I**  
 Performed post-release software validation and performance/KPI analysis across Snapdragon, Exynos, and MediaTek device platforms, reproducing defects and supporting root-cause investigations through Linux-based engineering workflows in collaboration with development teams.
 
 ## 📚 Certifications & Training
