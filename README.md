@@ -29,4 +29,4 @@ Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, and
 ## Experience
 
 - **Infosys — Tech Associate:** Java backend development, SQL, testing, performance investigation, and Agile delivery for Lumen Technologies.
-- **Samsung Electronics America — Network QA Engineer I (via Harvey Nash):** Post-release software validation, KPI analysis, defect reproduction, and root-cause investigation support using Linux-based workflows with development teams.
+- **Samsung Electronics America — Network QA Engineer I:** Post-release software validation, KPI analysis, defect reproduction, and root-cause investigation support using Linux-based workflows with development teams.
