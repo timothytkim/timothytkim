@@ -3,8 +3,7 @@
 <p align="center"><strong>Backend Software Engineer · Open Source Contributor</strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taeohkim/">LinkedIn</a> ·
-  <a href="https://github.com/timothytkim">GitHub</a>
+  <a href="https://www.linkedin.com/in/taeohkim/">LinkedIn</a>
 </p>
 
 Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, observability, and data systems. My experience includes Java backend development at Infosys, software validation and defect investigation at Samsung Electronics America, and contributions to established Java open-source projects.
