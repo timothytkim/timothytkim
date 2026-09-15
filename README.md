@@ -7,7 +7,7 @@
   <a href="https://github.com/timothytkim">GitHub</a>
 </p>
 
-Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, and data systems. My experience includes Java backend development at Infosys, software validation and defect investigation at Samsung Electronics America, and contributions to established Java open-source projects.
+Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, observability, and data systems. My experience includes Java backend development at Infosys, software validation and defect investigation at Samsung Electronics America, and contributions to established Java open-source projects.
 
 ## Tech Stack
 
@@ -15,7 +15,7 @@ Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, and
 
 ## Open Source
 
-- **[Spector #878](https://github.com/spectrayan/spector/pull/878)** — Added provider API documentation and contributed work on a searchable cognitive-neuroscience glossary for AI memory and retrieval concepts.
+- **[Spector](https://github.com/spectrayan/spector)** — Contributing HNSW index diagnostics, structured startup logging, and regression coverage across standard and quantized indexes; also contributed provider API documentation and cognitive-neuroscience glossary work.
 - **[NKAP #79](https://github.com/Deval123/nkap/pull/79)** — Improved MTN simulator error payloads and configurability while preserving compatibility and adding regression coverage.
 - **[nv-i18n](https://github.com/foundationsedge/nv-i18n)** — Strengthened compiler-warning enforcement, AssertJ tests, ISO metadata validation, and mutation-test coverage.
 - **[Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)** — Improved Java enum compatibility, runtime identifiers, packaged-resource handling, and regression tests.
