@@ -6,18 +6,25 @@
   <a href="https://www.linkedin.com/in/taeohkim/">LinkedIn</a>
 </p>
 
-Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, observability, and data systems. My experience includes Java backend development at Infosys, software validation and defect investigation at Samsung Electronics America, and contributions to established Java open-source projects.
+Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, observability, and data systems. My experience includes Java backend development at Infosys, software validation and defect investigation at Samsung Electronics America, and open-source contributions across indexing, observability, caching, data tooling, and Java libraries.
 
 ## Tech Stack
 
 **Java · Python · SQL** — Spring Boot · FastAPI · REST APIs · JUnit · Mockito · AssertJ · Maven · Git · Linux · Docker · AWS
 
+## Current Focus
+
+- **Database Systems** — PostgreSQL, indexing, transactions, replication, and change data capture
+- **Kubernetes** — operators, CRDs, stateful workloads, storage, and cloud-native infrastructure
+- **Distributed Systems** — observability, reliability, performance diagnostics, and data infrastructure
+
 ## Open Source
 
-- **[Spector](https://github.com/spectrayan/spector)** — Contributing HNSW index diagnostics, structured startup logging, and regression coverage across standard and quantized indexes; also contributed provider API documentation and cognitive-neuroscience glossary work.
+- **[Spector](https://github.com/spectrayan/spector)** — Contributing HNSW index diagnostics, Prometheus/Grafana observability, structured logging, regression coverage, and Java API documentation.
+- **[Flinkboot](https://github.com/Sekelenao/Flinkboot)** — Improved Apache Flink/Kafka-related validation, YAML error handling, and type assertion APIs with regression tests.
+- **[CodeMonk](https://github.com/YeamimHossainSajid/CodeMonk)** — Added Redis caching functionality and edge-case test coverage for cache keys, TTL behavior, and eviction.
+- **[Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)** — Improved Java runtime compatibility, stable identifiers, packaged-resource handling, and regression coverage.
 - **[NKAP #79](https://github.com/Deval123/nkap/pull/79)** — Improved MTN simulator error payloads and configurability while preserving compatibility and adding regression coverage.
-- **[nv-i18n](https://github.com/foundationsedge/nv-i18n)** — Strengthened compiler-warning enforcement, AssertJ tests, ISO metadata validation, and mutation-test coverage.
-- **[Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)** — Improved Java enum compatibility, runtime identifiers, packaged-resource handling, and regression tests.
 
 ## Selected Projects
 
