@@ -3,7 +3,8 @@
 <p align="center"><strong>Backend Software Engineer · Open Source Contributor</strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taeohkim/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/taeohkim/">LinkedIn</a> ·
+  <a href="https://youtube.com/playlist?list=PLWt8QSHnyNGMrdgdkRWuK1wsBoJRqfctD&si=oeG3GMBllz5Df7Ww">YouTube Tutorials</a>
 </p>
 
 Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, observability, and data systems. My experience includes Java backend development at Infosys, software validation and defect investigation at Samsung Electronics America, and open-source contributions across indexing, observability, caching, data tooling, and Java libraries.
