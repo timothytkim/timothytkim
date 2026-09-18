@@ -20,6 +20,7 @@ Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, obs
 
 ## Open Source
 
+- **[Selenium Boot](https://github.com/seleniumboot/selenium-boot)** — Working on `Locator.rows()` table extraction for header-keyed `List<Map<String, String>>` data, including header fallback behavior, ordered mappings, ragged-row handling, and unit tests.
 - **[Spector](https://github.com/spectrayan/spector)** — Contributing HNSW index diagnostics, Prometheus/Grafana observability, structured logging, regression coverage, and Java API documentation.
 - **[Flinkboot](https://github.com/Sekelenao/Flinkboot)** — Improved Apache Flink/Kafka-related validation, YAML error handling, and type assertion APIs with regression tests.
 - **[CodeMonk](https://github.com/YeamimHossainSajid/CodeMonk)** — Added Redis caching functionality and edge-case test coverage for cache keys, TTL behavior, and eviction.
