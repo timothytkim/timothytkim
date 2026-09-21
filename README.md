@@ -19,14 +19,16 @@ Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, obs
 - **Kubernetes** — operators, CRDs, stateful workloads, storage, and cloud-native infrastructure
 - **Distributed Systems** — observability, reliability, performance diagnostics, and data infrastructure
 
-## Open Source
+## Open Source Contributions
 
-- **[Selenium Boot](https://github.com/seleniumboot/selenium-boot)** — Working on `Locator.rows()` table extraction for header-keyed `List<Map<String, String>>` data, including header fallback behavior, ordered mappings, ragged-row handling, and unit tests.
-- **[Spector](https://github.com/spectrayan/spector)** — Contributing HNSW index diagnostics, Prometheus/Grafana observability, structured logging, regression coverage, and Java API documentation.
-- **[Flinkboot](https://github.com/Sekelenao/Flinkboot)** — Improved Apache Flink/Kafka-related validation, YAML error handling, and type assertion APIs with regression tests.
-- **[CodeMonk](https://github.com/YeamimHossainSajid/CodeMonk)** — Added Redis caching functionality and edge-case test coverage for cache keys, TTL behavior, and eviction.
-- **[Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)** — Improved Java runtime compatibility, stable identifiers, packaged-resource handling, and regression coverage.
-- **[NKAP #79](https://github.com/Deval123/nkap/pull/79)** — Improved MTN simulator error payloads and configurability while preserving compatibility and adding regression coverage.
+Merged pull requests to projects I contribute to (not my own repos):
+
+- **[Spector](https://github.com/spectrayan/spector)** — cognitive memory system for AI agents (Java, MCP). Added HNSW index diagnostics ([#936](https://github.com/spectrayan/spector/pull/936)) and Prometheus/Grafana observability ([#920](https://github.com/spectrayan/spector/pull/920)), plus structured logging and Java API docs.
+- **[Selenium Boot](https://github.com/seleniumboot/selenium-boot)** — convention-driven Java test-automation framework. Added `Locator.rows()` header-keyed table extraction returning `List<Map<String, String>>`, with header-fallback behavior, ragged-row handling, and unit tests ([#54](https://github.com/seleniumboot/selenium-boot/pull/54)).
+- **[Flinkboot](https://github.com/Sekelenao/Flinkboot)** — Spring Boot–style runtime for Apache Flink. Added `TypeHint`/`TypeInformation` assertions ([#58](https://github.com/Sekelenao/Flinkboot/pull/58)) and connector/YAML validation with regression tests ([#55](https://github.com/Sekelenao/Flinkboot/pull/55), [#54](https://github.com/Sekelenao/Flinkboot/pull/54)).
+- **[CodeMonk](https://github.com/YeamimHossainSajid/CodeMonk)** — AI code-intelligence platform. Added the Redis cache component with unit tests ([#407](https://github.com/YeamimHossainSajid/CodeMonk/pull/407)) and edge-case coverage for keys, TTL, and eviction ([#415](https://github.com/YeamimHossainSajid/CodeMonk/pull/415)).
+- **[Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)** — Apache Camel catalog tooling. Improved Java runtime compatibility and stable identifiers ([#195](https://github.com/KaotoIO/camel-catalog/pull/195)) and packaged-resource path handling ([#180](https://github.com/KaotoIO/camel-catalog/pull/180)).
+- **[NKAP](https://github.com/Deval123/nkap)** — open mobile-money gateway. Made MTN simulator error payloads configurable while preserving compatibility, with regression coverage ([#79](https://github.com/Deval123/nkap/pull/79)).
 
 ## Selected Projects
 
