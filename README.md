@@ -1,42 +1,242 @@
-<h1 align="center">Timothy Kim</h1>
+# Hi, I'm Timothy Kim 👋
 
-<p align="center"><strong>Backend Software Engineer · Open Source Contributor</strong></p>
+### Backend Software Engineer | Java & Spring Boot | Open Source Contributor | APIs, Testing & Cloud
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/taeohkim/">LinkedIn</a> ·
-  <a href="https://youtube.com/playlist?list=PLWt8QSHnyNGMrdgdkRWuK1wsBoJRqfctD&si=oeG3GMBllz5Df7Ww">YouTube Tutorials</a>
-</p>
+📍 Texas, United States  
+💻 Backend-focused Software Engineer  
+🌱 Open Source Contributor & GitHub Organization Member at Spectrayan  
+🎓 B.S. in Information Technology — University of Kansas
 
-Backend engineer focused on Java/Spring Boot, Python/FastAPI, APIs, testing, observability, and data systems. My experience includes Java backend development at Infosys, software validation and defect investigation at Samsung Electronics America, and open-source contributions across indexing, observability, caching, data tooling, and Java libraries.
+---
 
-## Tech Stack
+## 👨🏻‍💻 About Me
 
-**Java · Python · SQL** — Spring Boot · FastAPI · REST APIs · JUnit · Mockito · AssertJ · Maven · Git · Linux · Docker · AWS
+I'm a backend-focused software engineer based in Texas with experience building and testing enterprise applications, REST APIs, cloud infrastructure, and data-driven systems.
 
-## Current Focus
+My primary stack includes **Java, Spring Boot, Python, SQL, REST APIs, AWS, Azure, and CI/CD tooling**.
 
-- **Database Systems** — PostgreSQL, indexing, transactions, replication, and change data capture
-- **Kubernetes** — operators, CRDs, stateful workloads, storage, and cloud-native infrastructure
-- **Distributed Systems** — observability, reliability, performance diagnostics, and data infrastructure
+I also actively contribute to open-source projects. Recently, I've been contributing to the **Spectrayan / Spector** ecosystem, working with maintainers on Java observability, vector indexing diagnostics, testing, and documentation.
 
-## Open Source Contributions
+I enjoy understanding how systems work under the hood, improving existing codebases, and turning real engineering problems into maintainable solutions.
 
-Merged pull requests to projects I contribute to (not my own repos):
+---
 
-- **[Spector](https://github.com/spectrayan/spector)** — cognitive memory system for AI agents (Java, MCP). Added HNSW index diagnostics ([#936](https://github.com/spectrayan/spector/pull/936)) and Prometheus/Grafana observability ([#920](https://github.com/spectrayan/spector/pull/920)), plus structured logging and Java API docs.
-- **[Selenium Boot](https://github.com/seleniumboot/selenium-boot)** — convention-driven Java test-automation framework. Added `Locator.rows()` header-keyed table extraction returning `List<Map<String, String>>`, with header-fallback behavior, ragged-row handling, and unit tests ([#54](https://github.com/seleniumboot/selenium-boot/pull/54)).
-- **[Flinkboot](https://github.com/Sekelenao/Flinkboot)** — Spring Boot–style runtime for Apache Flink. Added `TypeHint`/`TypeInformation` assertions ([#58](https://github.com/Sekelenao/Flinkboot/pull/58)) and connector/YAML validation with regression tests ([#55](https://github.com/Sekelenao/Flinkboot/pull/55), [#54](https://github.com/Sekelenao/Flinkboot/pull/54)).
-- **[CodeMonk](https://github.com/YeamimHossainSajid/CodeMonk)** — AI code-intelligence platform. Added the Redis cache component with unit tests ([#407](https://github.com/YeamimHossainSajid/CodeMonk/pull/407)) and edge-case coverage for keys, TTL, and eviction ([#415](https://github.com/YeamimHossainSajid/CodeMonk/pull/415)).
-- **[Kaoto / camel-catalog](https://github.com/KaotoIO/camel-catalog)** — Apache Camel catalog tooling. Improved Java runtime compatibility and stable identifiers ([#195](https://github.com/KaotoIO/camel-catalog/pull/195)) and packaged-resource path handling ([#180](https://github.com/KaotoIO/camel-catalog/pull/180)).
-- **[NKAP](https://github.com/Deval123/nkap)** — open mobile-money gateway. Made MTN simulator error payloads configurable while preserving compatibility, with regression coverage ([#79](https://github.com/Deval123/nkap/pull/79)).
+## 🛠️ Tech Stack
 
-## Selected Projects
+### Languages
 
-- **[FoodCalorie Backend](https://github.com/timothytkim/FoodCalorie_BackEnd)** — FastAPI backend for food-image recognition and nutrition analysis using Python, TensorFlow Lite, and external APIs.
-- **[Cyclistic Data Analysis](https://github.com/timothytkim/cyclistic-data-analysis)** — End-to-end SQL, R, and Tableau analysis of behavioral data and usage patterns.
-- **[SwitchOnTracker](https://github.com/timothytkim/SwitchOnTracker)** — Offline-first Flutter app for structured local data and daily progress tracking.
+`Java` · `Python` · `C++` · `SQL` · `JavaScript`
 
-## Experience
+### Backend & APIs
 
-- **Infosys — Tech Associate:** Java backend development, SQL, testing, performance investigation, and Agile delivery for Lumen Technologies.
-- **Samsung Electronics America — Network QA Engineer I:** Post-release software validation, KPI analysis, defect reproduction, and root-cause investigation support using Linux-based workflows with development teams.
+`Spring Boot` · `REST APIs` · `FastAPI` · `JUnit` · `Mockito` · `AssertJ`
+
+### Cloud & DevOps
+
+`AWS` · `Azure` · `Terraform` · `Docker` · `Jenkins` · `GitHub Actions` · `CI/CD`
+
+### Data
+
+`Oracle SQL` · `MySQL` · `pandas` · `Tableau`
+
+### Tools
+
+`Git` · `GitHub` · `Maven` · `Postman` · `JIRA` · `Linux`
+
+---
+
+## 🌱 Open Source
+
+I actively contribute to open-source projects, primarily in **Java backend engineering, testing, observability, developer tooling, and application reliability**.
+
+### ♾️ Spectrayan / Spector
+
+**GitHub Organization Member & Open Source Contributor**
+
+Contributing to Spector, an open-source Java ecosystem focused on vector search, indexing, and related infrastructure.
+
+- Implemented **HNSW index diagnostics** for inspecting graph structure, node count, index configuration, level distribution, and estimated recall.
+- Added automated tests covering empty, populated, and quantized HNSW indexes.
+- Worked on **Prometheus observability** using Spring Boot Actuator, including application, JVM, cache, and route-level metrics.
+- Added and improved package-level Java documentation across core Spector modules.
+- Collaborate with project maintainers through GitHub issues, pull requests, technical discussions, code review, and iterative feedback.
+- Invited to join the **Spectrayan GitHub organization** after contributing to the project.
+
+---
+
+### 🔧 selenium-boot
+
+- Implemented `Locator.rows()` for converting HTML table rows into structured Java data.
+- Added automatic table-header detection using `thead`, `th`, and fallback table structures.
+- Added handling for ragged rows and empty tables.
+- Created unit tests covering multiple HTML table structures and edge cases.
+
+---
+
+### 🌎 nv-i18n
+
+- Migrated existing Java tests to **AssertJ**.
+- Improved test readability and assertion quality.
+- Worked with mutation testing and test coverage using **Pitest**.
+- Contributed fixes and additional tests for locale and currency-related functionality.
+
+---
+
+### ⚡ Flinkboot
+
+- Improved YAML parsing error handling by wrapping underlying exceptions in application-specific exceptions.
+- Added corresponding unit tests.
+- Worked on API improvements involving `TypeHint` and `TypeInformation`.
+
+---
+
+### 📱 a-news-provider
+
+- Implemented duplicate RSS feed prevention through URL normalization and DAO-level validation.
+- Improved Android dialog behavior for successful submission and cancellation flows.
+- Added user-facing validation messages.
+- Verified changes through Gradle build, lint, and unit-test workflows.
+
+---
+
+### 🔌 nkap
+
+- Worked on improving API error responses for an MTN MoMo simulator.
+- Aligned controller responses with expected `{ message, code }` JSON structures.
+- Added automated test coverage for application scenarios.
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ Food Calorie Recognition API
+
+A backend API that identifies food from images and retrieves nutritional information.
+
+**Tech:**  
+`Python` · `FastAPI` · `TensorFlow Lite` · `Keras` · `REST API` · `Raspberry Pi`
+
+- Built a FastAPI `/analyze` endpoint for image-based food recognition.
+- Integrated TensorFlow Lite with a Keras fallback model.
+- Integrated nutritional data from an external food API.
+- Worked with Food-101, Fruits360, and UECFOOD-100 datasets.
+- Added automated API and model tests.
+
+---
+
+### 📝 NeatTaker
+
+A Notion-inspired note-taking application focused on simple organization and structured content.
+
+**Tech:**  
+`Software Design` · `Product Development` · `Web Application`
+
+Built as part of my interest in designing productivity tools and experimenting with clean, structured information management.
+
+---
+
+### 🙏 NeatPrayer
+
+A structured prayer organization application inspired by modern productivity tools.
+
+Designed to organize prayer topics and records while exploring user-focused application architecture and product design.
+
+---
+
+### 🥗 Switch-On Diet
+
+A bilingual 28-day diet and habit tracking application.
+
+**Tech:**  
+`Flutter` · `Dart`
+
+- Designed an offline-first tracking experience.
+- Supports structured daily progress tracking.
+- Built with bilingual usability in mind.
+
+---
+
+### 📊 Outreach CRM
+
+A lightweight CRM designed for community outreach and follow-up management.
+
+**Tech:**  
+`Google Apps Script` · `Google Sheets` · `AppSheet`
+
+- Built follow-up workflows and automated views.
+- Created a sidebar-based interface for easier record management.
+- Designed data slices for daily follow-up workflows.
+
+---
+
+## 💼 Engineering Experience
+
+My professional experience includes work across:
+
+- Backend and enterprise application development
+- Java application development and testing
+- REST API development
+- Oracle SQL
+- CI/CD pipelines
+- Cloud infrastructure
+- Network and system validation
+- Software QA and troubleshooting
+
+I've worked with development and engineering teams in both software and large-scale technology environments.
+
+---
+
+## 🧪 What I Care About
+
+I especially enjoy working on:
+
+- ☕ Java & Spring Boot
+- 🔗 Backend APIs
+- 🧪 Automated Testing
+- 📊 Data & SQL
+- ☁️ Cloud Infrastructure
+- 🔍 Observability
+- 🧠 Understanding unfamiliar codebases
+- 🌱 Open Source Software
+
+I believe good software engineering isn't only about writing new code — it's also about understanding existing systems, asking the right questions, testing assumptions, and leaving the codebase better than you found it.
+
+---
+
+## 📚 Currently Learning
+
+I'm continuing to deepen my knowledge of:
+
+- Advanced Java & Spring Boot
+- Backend system design
+- Data structures & algorithms
+- SQL optimization
+- Cloud architecture
+- Linux
+- Distributed systems
+- Vector search & indexing
+- Open-source development workflows
+
+---
+
+## 🤝 Open Source
+
+I'm always interested in contributing to projects involving:
+
+`Java` · `Spring Boot` · `Backend` · `Testing` · `APIs` · `Developer Tools` · `Data` · `Cloud`
+
+I particularly enjoy issues where I can learn an unfamiliar part of a codebase, trace how the system works, implement a focused improvement, and validate it with tests.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/taeohkim](https://www.linkedin.com/in/taeohkim)
+- **GitHub:** [github.com/timothytkim](https://github.com/timothytkim)
+- **Linktree:** [linktr.ee/taeohkim](https://linktr.ee/taeohkim)
+
+---
+
+### Thanks for visiting! 👋
+
+I'm always interested in meeting engineers, open-source contributors, and people building useful software.
