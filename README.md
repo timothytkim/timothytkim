@@ -1,88 +1,28 @@
 # Hi, I'm Timothy Kim 👋
 
-### Backend Software Engineer | Java & Spring Boot | APIs, Cloud & Open Source
+### Backend Software Engineer | Java & Spring Boot | Open Source
 
-📍 Texas, United States
-🎓 B.S. in Information Technology — University of Kansas
-🌱 Open Source Contributor & Spectrayan GitHub Organization Member
+Backend-focused software engineer in Texas building **APIs, backend services, data-driven systems, and reliable automated tests**.
 
----
+**Core Stack:** Java · Spring Boot · Python · FastAPI · SQL · REST APIs · JUnit · Maven · Git · AWS · Azure · Docker · Jenkins
 
-## 👨🏻‍💻 About Me
+## 🌱 Open Source
 
-I'm a backend-focused software engineer working primarily with **Java, Spring Boot, Python, SQL, REST APIs, cloud infrastructure, and automated testing**.
+- **[Spector](https://github.com/spectrayan/spector)** — HNSW index diagnostics, Prometheus/Grafana observability, testing, and Java documentation.
+- **[server-sent-events](https://github.com/spectrayan/server-sent-events)** — Added a Swift SSE client with parsing, reconnection, session handling, and tests.
+- **[selenium-boot](https://github.com/seleniumboot/selenium-boot)** — Added header-keyed HTML table row extraction with unit tests.
+- **nv-i18n / Flinkboot / Kaoto** — Contributed testing, validation, compatibility, and API improvements across Java codebases.
 
-My professional and open-source experience includes enterprise Java development, API development, CI/CD, Oracle SQL, testing, observability, and system troubleshooting.
+## 🚀 Projects
 
-Recently, I've been contributing to the **Spectrayan / Spector** ecosystem, working with maintainers on Java observability, vector indexing diagnostics, testing, and developer documentation.
+- **[FoodCalorie_BackEnd](https://github.com/timothytkim/FoodCalorie_BackEnd)** — FastAPI + TensorFlow Lite backend for food recognition and nutrition analysis.
+- **[SwitchOnTracker](https://github.com/timothytkim/SwitchOnTracker)** — Offline-first Flutter habit and diet tracker.
 
-I enjoy learning unfamiliar codebases, tracing how systems work, and turning engineering problems into maintainable, well-tested solutions.
+## 💼 Experience
 
----
+- **Infosys** — Java backend development, REST APIs, SQL, automated testing, CI/CD, and performance improvements.
+- **Samsung Electronics America** — Post-release software validation, performance/KPI analysis, defect reproduction, root-cause investigation, and engineering collaboration across mobile platforms.
 
-## 🛠️ Tech Stack
+🎓 **B.S. Information Technology — University of Kansas**
 
-**Backend:** `Java` · `Spring Boot` · `Python` · `FastAPI` · `REST APIs`
-
-**Testing:** `JUnit` · `Mockito` · `AssertJ` · `Pitest`
-
-**Data:** `SQL` · `Oracle` · `MySQL` · `pandas`
-
-**Cloud & DevOps:** `AWS` · `Azure` · `Terraform` · `Docker` · `Jenkins` · `GitHub Actions` · `CI/CD`
-
-**Tools:** `Git` · `Maven` · `Postman` · `Linux` · `JIRA`
-
----
-
-## 🌱 Selected Open Source
-
-### ♾️ Spectrayan / Spector
-
-Contributing to an open-source Java ecosystem focused on vector search, indexing, and infrastructure.
-
-* Implemented **HNSW index diagnostics** for graph structure, configuration, level distribution, and estimated recall.
-* Added automated testing for empty, populated, and quantized indexes.
-* Worked with **Prometheus and Spring Boot Actuator** for application, JVM, cache, and route-level observability.
-* Improved Java documentation across core modules.
-* Collaborate with maintainers through issues, pull requests, reviews, and technical discussions.
-
-### 🔧 Other Contributions
-
-* **selenium-boot** — Implemented structured HTML table extraction with `Locator.rows()` and unit tests.
-* **nv-i18n** — Migrated Java tests to AssertJ and worked with Pitest mutation testing.
-* **Flinkboot** — Improved YAML exception handling and API validation.
-* **a-news-provider** — Added duplicate RSS feed prevention, validation, and Android flow improvements.
-* **nkap** — Improved REST API error responses and automated test coverage.
-
----
-
-## 🚀 Selected Projects
-
-### 🍽️ Food Calorie Recognition API
-
-`Python` · `FastAPI` · `TensorFlow Lite` · `Keras` · `REST API`
-
-Backend API for image-based food recognition and nutritional analysis.
-
-* Built a FastAPI `/analyze` endpoint.
-* Integrated TensorFlow Lite with a Keras fallback model.
-* Connected external nutritional data APIs.
-* Added automated API and model tests.
-
-### 🥗 Switch-On Diet
-
-`Flutter` · `Dart` · `Offline-First`
-
-A bilingual 28-day habit and diet tracking application built around offline-first local data management.
-
----
-
-## 🎯 Current Focus
-
-`Java Backend` · `Spring Boot` · `REST APIs` · `Cloud` · `Automated Testing` · `Observability` · `Vector Search` · `Applied AI`
-
----
-
-## 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/taeohkim) · [Linktree](https://linktr.ee/taeohkim)
+[LinkedIn](https://www.linkedin.com/in/taeohkim) · [GitHub](https://github.com/timothytkim)
